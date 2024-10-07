@@ -23,11 +23,26 @@ challan online.
 - RTO Records: Get the complete history and information of any car at your fingertips.
 - Car Service History: Keep track of your car's complete service history, including maintenance and repair records.
 - Car Inspection: Get a detailed report of your car from expert evaluators with doorstep inspection services.
-- Doorstep Car Service: Enjoy convenient car services such as car washes, system scans, oil and filter replacements, and more.
-- Car Care Services: Take advantage of affordable and professional doorstep car wash services, including deep cleaning, paint protection, and polishing.
 <br />
 
-
+- Functionalities
+  - Various Features included in this app:
+    - MVVM Architecture
+    - State Manahement Tool
+    - Flavors
+    - Deep Linking
+    - WebView
+    - Push Notifications
+    - Geo Location
+    - Geo Fencing
+    - Implemented various packages/plugins
+    - Restful Api's (Http, Dio)
+    - Payment Gateway
+    - Cache Api integration, Cache Image providers
+    - Complex UI implementation
+    - Published in Google Play Store/ Apple App Store
+    - Firebase (Local, Cloud)
+    - Adaptive and Responsive designs
 
 <h2>Images :</h2>
 
